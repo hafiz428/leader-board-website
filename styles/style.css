@@ -1,0 +1,65 @@
+body{
+    background: #E5E5E5;
+}
+.navbar img{
+    width: 40px;
+}
+.nav-item{
+    padding-left: 30px;
+}
+.player img{
+    width: 56px;
+}
+.top{
+    color: #562EFF;
+    padding-bottom: 25px;
+}
+main{
+    max-width: 870px;
+}
+.top-player{
+    background: white;
+    padding-top: 50px;
+}
+.hafiz-player img{
+    width: 177px;
+}
+.rahman img{
+    padding-top: 20px;
+}
+.row{
+    padding-left: 50px;
+}
+.nayeem-child{
+    padding-top: 20px;
+}
+.card img{
+    width: 224px;
+}
+.card-what{
+    box-shadow: 3px 3px 10px dimgrey;
+    border-radius: 10px;
+    padding: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+.card-what:hover{
+    background-color: #8f8f8f;
+    color: white;
+}
+.card-what:hover p{
+    color: red;
+}
+.card-img-top{
+    padding-bottom: 25px;
+}
+.card-text{
+    padding-top: 10px;
+}
+.card-what p{
+    color: #ED6B4F;
+}
+footer{
+    text-align: center;
+    padding: 50px;
+}
